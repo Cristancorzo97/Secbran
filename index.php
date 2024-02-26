@@ -26,7 +26,8 @@
                 
             </div>
             <div class="col-md-4">
-                <br>
+            <br>
+            <form action="secciones/index.php" method="post">
                 <div class="card">
                     <div class="card-header">Inicio de sesion</div>
                     
@@ -58,7 +59,7 @@
                         <button type="submit" class="btn btn-primary">Iniciar sesión</button>
                         
                         
-
+            </form>
                     </div>
                 </div>
                 
