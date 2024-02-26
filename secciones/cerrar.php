@@ -1,0 +1,1 @@
+//Lo que pasa cuando la persona cierre la sesion

@@ -1,0 +1,1 @@
+// Es donde vamos a guardar todos los archivos estaticos como imagenes o hasta codigo de css
